@@ -1,5 +1,5 @@
 # webserver
-A http web server built in C for a Uni project. This project may not run on a Windows system as it was built using Linux. It has been tested on WSL.
+A http web server built in C as Uni project. This project may not run on a Windows system as it was built using Linux. It has been tested on WSL.
 
 # How to Use:
 A quick How-To, getting started with running and using this webserver.
